@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FmtTmpBookStruct.iml" filepath="$PROJECT_DIR$/FmtTmpBookStruct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FmtTmpBookStruct_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FmtTmpBookStruct_main.iml" group="FmtTmpBookStruct" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FmtTmpBookStruct_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FmtTmpBookStruct_test.iml" group="FmtTmpBookStruct" />
+    </modules>
+  </component>
+</project>
